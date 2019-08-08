@@ -1,0 +1,22 @@
+[
+
+    {
+        "food": "spicy corn cheddar",
+        "price": "$22",
+        "calories": "630"
+    },
+
+    {
+        "food": "brocolli and cheese potato",
+        "price": "$14",
+        "calories": "250"
+    },
+
+    {
+        "food": "spinach rice",
+        "price": "$18",
+        "calories": "90"
+    }
+
+
+]

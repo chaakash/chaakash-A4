@@ -1,0 +1,22 @@
+[
+
+    {
+        "food": "chicken and rice",
+        "price": "$12",
+        "calories": "330"
+    },
+
+    {
+        "food": "steak",
+        "price": "$8",
+        "calories": "250"
+    },
+
+    {
+        "food": "rice curry",
+        "price": "$16",
+        "calories": "490"
+    }
+
+
+]

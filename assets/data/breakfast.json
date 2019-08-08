@@ -1,0 +1,22 @@
+[
+
+    {
+        "food": "paneer",
+        "price": "$4",
+        "calories": "230"
+    },
+
+    {
+        "food": "egg",
+        "price": "$8",
+        "calories": "150"
+    },
+
+    {
+        "food": "oats",
+        "price": "$10",
+        "calories": "290"
+    }
+
+
+]
